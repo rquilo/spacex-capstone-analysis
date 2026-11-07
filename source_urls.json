@@ -1,0 +1,9 @@
+{
+  "scraping.ipynb": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/jupyter-labs-webscraping.ipynb",
+  "wrangling.ipynb": "https://cf-courses-data.static.labs.skills.network/40_a1Bp-HNGV8BnAjtFY1Q/labs-jupyter-spacex-Data%20wrangling-v2.ipynb",
+  "sql.ipynb": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_2/SQLLIte/jupyter-labs-eda-sql-coursera_sqllite.ipynb",
+  "eda.ipynb": "https://cf-courses-data.static.labs.skills.network/GA1NIekOpuyV5VgEbUJPJA/jupyter-labs-eda-dataviz-v2.ipynb",
+  "folium.ipynb": "https://cf-courses-data.static.labs.skills.network/RNXNDbYjJlI87sBJmgJZoQ/lab-jupyter-launch-site-location-v2.ipynb",
+  "dash.html": "https://cf-courses-data.static.labs.skills.network/IBM-DS0321EN-SkillsNetwork/labs/module_3/lab_theia_plotly_dash.md.html",
+  "ml.ipynb": "https://cf-courses-data.static.labs.skills.network/P-YltYL1EQgNamcOiefw8A/SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb"
+}

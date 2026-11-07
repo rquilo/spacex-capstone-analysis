@@ -1,0 +1,39 @@
+{
+  "proximities": [
+    {
+      "Feature": "Coastline",
+      "Latitude": 28.5624,
+      "Longitude": -80.5677,
+      "Distance_km": 0.9434322198259438
+    },
+    {
+      "Feature": "Samuel C. Phillips Parkway",
+      "Latitude": 28.5624,
+      "Longitude": -80.5707,
+      "Distance_km": 0.6503820182090627
+    }
+  ],
+  "sites": [
+    {
+      "Launch Site": "CCAFS LC-40",
+      "Lat": 28.56230197,
+      "Long": -80.57735648
+    },
+    {
+      "Launch Site": "CCAFS SLC-40",
+      "Lat": 28.56319718,
+      "Long": -80.57682003
+    },
+    {
+      "Launch Site": "KSC LC-39A",
+      "Lat": 28.57325457,
+      "Long": -80.64689529
+    },
+    {
+      "Launch Site": "VAFB SLC-4E",
+      "Lat": 34.63283416,
+      "Long": -120.6107455
+    }
+  ],
+  "records": 56
+}

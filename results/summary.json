@@ -1,0 +1,155 @@
+{
+  "rows": 90,
+  "successes": 60,
+  "success_rate": 0.6666666666666666,
+  "sites": [
+    {
+      "LaunchSite": "CCAFS SLC 40",
+      "count": 55,
+      "sum": 33,
+      "mean": 0.6
+    },
+    {
+      "LaunchSite": "KSC LC 39A",
+      "count": 22,
+      "sum": 17,
+      "mean": 0.7727272727272727
+    },
+    {
+      "LaunchSite": "VAFB SLC 4E",
+      "count": 13,
+      "sum": 10,
+      "mean": 0.7692307692307693
+    }
+  ],
+  "orbits": [
+    {
+      "Orbit": "ES-L1",
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    },
+    {
+      "Orbit": "GEO",
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    },
+    {
+      "Orbit": "GTO",
+      "count": 27,
+      "sum": 14,
+      "mean": 0.5185185185185185
+    },
+    {
+      "Orbit": "HEO",
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    },
+    {
+      "Orbit": "ISS",
+      "count": 21,
+      "sum": 13,
+      "mean": 0.6190476190476191
+    },
+    {
+      "Orbit": "LEO",
+      "count": 7,
+      "sum": 5,
+      "mean": 0.7142857142857143
+    },
+    {
+      "Orbit": "MEO",
+      "count": 3,
+      "sum": 2,
+      "mean": 0.6666666666666666
+    },
+    {
+      "Orbit": "PO",
+      "count": 9,
+      "sum": 6,
+      "mean": 0.6666666666666666
+    },
+    {
+      "Orbit": "SO",
+      "count": 1,
+      "sum": 0,
+      "mean": 0.0
+    },
+    {
+      "Orbit": "SSO",
+      "count": 5,
+      "sum": 5,
+      "mean": 1.0
+    },
+    {
+      "Orbit": "VLEO",
+      "count": 14,
+      "sum": 12,
+      "mean": 0.8571428571428571
+    }
+  ],
+  "years": [
+    {
+      "Year": 2010,
+      "count": 1,
+      "sum": 0,
+      "mean": 0.0
+    },
+    {
+      "Year": 2012,
+      "count": 1,
+      "sum": 0,
+      "mean": 0.0
+    },
+    {
+      "Year": 2013,
+      "count": 3,
+      "sum": 0,
+      "mean": 0.0
+    },
+    {
+      "Year": 2014,
+      "count": 6,
+      "sum": 2,
+      "mean": 0.3333333333333333
+    },
+    {
+      "Year": 2015,
+      "count": 6,
+      "sum": 2,
+      "mean": 0.3333333333333333
+    },
+    {
+      "Year": 2016,
+      "count": 8,
+      "sum": 5,
+      "mean": 0.625
+    },
+    {
+      "Year": 2017,
+      "count": 18,
+      "sum": 15,
+      "mean": 0.8333333333333334
+    },
+    {
+      "Year": 2018,
+      "count": 18,
+      "sum": 11,
+      "mean": 0.6111111111111112
+    },
+    {
+      "Year": 2019,
+      "count": 10,
+      "sum": 9,
+      "mean": 0.9
+    },
+    {
+      "Year": 2020,
+      "count": 19,
+      "sum": 16,
+      "mean": 0.8421052631578947
+    }
+  ]
+}
